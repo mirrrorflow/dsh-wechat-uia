@@ -1,0 +1,8 @@
+{
+  "name": "@deepseek-ai/schemastery",
+  "version": "0.0.0-test-stub",
+  "type": "module",
+  "main": "index.js",
+  "exports": { ".": "./index.js" },
+  "private": true
+}
